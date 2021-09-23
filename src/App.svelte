@@ -21,11 +21,11 @@
 <style>
 	h1{
 		color: red; 
-		text-align: left
+		text-align: center;
 	}
 	h2{
 		color: blue; 
-		text-align: center
+		font-style: italic;
 	}
 	.start{
         background-color: skyblue;
